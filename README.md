@@ -7,3 +7,6 @@
 * Using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
 
 ## As a result, this beta tester created a travel route in Mexico!
+
+![image](https://user-images.githubusercontent.com/100387078/199608699-e9d48c45-34d1-4940-b4e3-541da453c2ab.png)
+
